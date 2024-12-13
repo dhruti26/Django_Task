@@ -1,0 +1,8 @@
+# Django specific ignores
+__pycache__/
+*.pyc
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
